@@ -1,7 +1,7 @@
 "Reference","Qty","Value","Footprint"
 "C101,C102","2","1u","Capacitor_SMD:C_1206_3216Metric"
 "C104,C105","2","100n","Capacitor_SMD:C_1206_3216Metric"
-"D102,D103","2","D","Diode_SMD:D_SOD-323_HandSoldering"
+"D102,D103","2","1N4148","Diode_SMD:D_SOD-323_HandSoldering"
 "D104","1","LED","LED_THT:LED_D5.0mm"
 "J1","1","Conn_02x05_Odd_Even","Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical"
 "J102,J103,J104","3","AudioJack2","Library:MonoTRS"
